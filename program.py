@@ -1,4 +1,4 @@
-pip install sklearn
+
 import streamlit as st
 import sklearn
 import numpy as np
